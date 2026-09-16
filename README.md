@@ -4,8 +4,8 @@
 
 <h3>Aspiring Project Manager · Data Specialist Intern @IPDN · Bandung, Indonesia</h3>
 
-<a href="https://whoisren.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=flat-square&labelColor=F2994A&color=1a1a1a"/></a>
-<a href="https://linkedin.com/in/sumarenata"><img src="https://img.shields.io/badge/LINKEDIN-1a1a1a?style=flat-square&labelColor=F2994A&color=1a1a1a"/></a>
+<a href="https://whoisren.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=flat-square&labelColor=1E3A8A&color=1a1a1a"/></a>
+<a href="https://linkedin.com/in/sumarenata"><img src="https://img.shields.io/badge/LINKEDIN-1a1a1a?style=flat-square&labelColor=1E3A8A&color=1a1a1a"/></a>
 
 </div>
 
@@ -53,7 +53,7 @@ Currently building a hybrid IndoBERT + LSTM model for stock price prediction as 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=renit21c&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=renit21c&theme=tokyonight&hide_border=true&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&text=ffffff"/>
 
 </div>
 
