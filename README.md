@@ -19,7 +19,7 @@ Currently building a hybrid IndoBERT + LSTM model for stock price prediction as 
 
 <br>
 
-## Tech Stack
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -32,6 +32,9 @@ Currently building a hybrid IndoBERT + LSTM model for stock price prediction as 
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white"/>
 
 </div>
 
